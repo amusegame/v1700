@@ -1,11 +1,14 @@
 Game Server for Windows(1700)
 ===============
-Current latest version: [231117645](https://github.com/amusegame/v1700/releases/download/231117645/v1700-231117645.github.7z)
+Current latest version: [240711843](https://github.com/amusegame/v1700/releases/download/240711843/v1700-240711843.github.7z)
 
-Release Date: 2023-11-17
+Release Date: 2024-07-14
 
 Release Notes
 -----------------------------------
+240711843
+	1. Fixed some problem; 
+
 231117645
 	1. Fixed some problem; 
 
